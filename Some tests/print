@@ -1,0 +1,16 @@
+let rec f n = n eq 1 -> 1| n*f (n-1) in f 3
+
+//let tup1	= (10,11,12) and 
+//	tup2	= (3,1) and
+//		index	= 12 in
+//
+//		Print (tup1 (tup2 index))
+//let x=2 and y=3 in x+y
+//(fn x y. x+y)1 2
+//let x=4 in (x-1)*2
+//n>0 -> -n | n where n=-3
+//let rec f n = n eq 1 -> 1 | n*f(n-1) in f 3
+//let f x y = x+y in 3@f y
+//Print 5 where x=3
+//let c=3 within f x = x + c
+//in Print(f 4)

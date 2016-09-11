@@ -1,0 +1,2 @@
+let ADD1(A)=A+1
+in Print ( ADD1 (2) )
